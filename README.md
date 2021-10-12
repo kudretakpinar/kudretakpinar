@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm Kudret, a System Engineering graduate who's transition
 
 👩‍💻 I'm working on
 
-- 🔭 I’m currently working on Bilge Adam Boost Bootcamp
+- I’m currently working on Bilge Adam Boost Bootcamp
 
 ✔️ I'm currently learning
 
