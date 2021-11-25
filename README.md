@@ -22,4 +22,5 @@ Welcome to my GitHub! I'm Kudret, a System Engineering graduate who's transition
 - LinkedIn: www.linkedin.com/in/kudret-akpinar-40a2201b4
 - E mail: Kudret.3642@gmail.com
 
+https://komarev.com/ghpvc/?username=kudretakpinar
 
