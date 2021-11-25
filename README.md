@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm Kudret, a System Engineering graduate who's transitioning into Software Engineering through self-study and enrolling in a coding Bootcamp at Bilgeadam Academy
 
-https://komarev.com/ghpvc/?username=kudretakpinar
+
 
 👩‍💻 I'm working on
 
